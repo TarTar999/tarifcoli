@@ -10,9 +10,9 @@ import { estimer, facturer } from '@/lib/api'
 import { cn } from '@/lib/utils'
 
 const MODES = [
-  { cle: 'moto', libelle: 'Moto' },
   { cle: 'ramassage', libelle: 'Taxi partagé' },
   { cle: 'taxi', libelle: 'Taxi course' },
+  { cle: 'moto', libelle: 'Moto' },
   { cle: 'vtc', libelle: 'VTC' },
 ]
 
@@ -49,7 +49,7 @@ function Choix({ options, valeur, onChange, label }) {
 export default function App() {
   const [depart, setDepart] = React.useState(null)
   const [arrivee, setArrivee] = React.useState(null)
-  const [mode, setMode] = React.useState('moto')
+  const [mode, setMode] = React.useState('ramassage')
   const [creneau, setCreneau] = React.useState('journee')
   const [poids, setPoids] = React.useState('')
   const [details, setDetails] = React.useState(false)
