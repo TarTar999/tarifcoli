@@ -110,7 +110,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen">
-      <header className="container flex items-center justify-between py-5">
+      <header className="container flex items-center justify-between py-5 pt-[max(1.25rem,env(safe-area-inset-top))]">
         <div className="flex items-center gap-3">
           <a href="/" className="flex items-center">
             <img src="/logo/logo_long_vert_noir.svg" alt="TarifColi" className="h-7 sm:h-8" />
