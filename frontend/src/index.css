@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 80 15% 95%;        /* papier */
+    --foreground: 154 30% 8%;        /* encre */
+    --card: 0 0% 100%;
+    --card-foreground: 154 30% 8%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 154 30% 8%;
+    --primary: 154 30% 8%;
+    --primary-foreground: 44 100% 59%;
+    --secondary: 90 12% 92%;
+    --secondary-foreground: 154 30% 8%;
+    --muted: 90 12% 92%;
+    --muted-foreground: 155 8% 42%;
+    --accent: 44 100% 59%;           /* jaune taxi */
+    --accent-foreground: 154 30% 8%;
+    --destructive: 350 84% 42%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 100 8% 85%;
+    --input: 100 8% 82%;
+    --ring: 158 78% 27%;
+    --radius: 0.75rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: 'cv05', 'ss01';
+  }
+
+  /* Fond : trame de rue très discrète, rappel du plan de Douala */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image:
+      linear-gradient(hsl(var(--border) / 0.55) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--border) / 0.55) 1px, transparent 1px);
+    background-size: 88px 88px;
+    mask-image: radial-gradient(circle at 50% 0%, #000 0%, transparent 70%);
+  }
+
+  ::selection {
+    background: theme('colors.jaune');
+    color: theme('colors.encre');
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

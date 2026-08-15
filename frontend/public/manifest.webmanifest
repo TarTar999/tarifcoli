@@ -1,0 +1,59 @@
+{
+  "name": "TarifColi",
+  "short_name": "TarifColi",
+  "description": "Estimez et facturez vos livraisons à Douala. Prix certifiés entre 164 quartiers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F5F1",
+  "theme_color": "#0E1A14",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "fr",
+  "categories": ["business", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "/logo/icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo/logo_icon_vert.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Calculer un prix",
+      "short_name": "Calculer",
+      "description": "Estimer le prix d'une livraison",
+      "url": "/",
+      "icons": [{ "src": "/logo/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,0 +1,1642 @@
+[
+ {
+  "id": 1,
+  "nom": "Bali",
+  "description": "Quartier populaire avec zones résidentielles et commerces locaux",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0395,
+  "lon": 9.6945,
+  "precision": "exacte"
+ },
+ {
+  "id": 2,
+  "nom": "Bonamikengué",
+  "description": "Quartier résidentiel calme avec quelques écoles",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0455,
+  "lon": 9.694,
+  "precision": "exacte"
+ },
+ {
+  "id": 3,
+  "nom": "Bessengué",
+  "description": "Quartier urbain avec marchés et petites entreprises",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0505,
+  "lon": 9.7105,
+  "precision": "exacte"
+ },
+ {
+  "id": 4,
+  "nom": "Bonamoudourou",
+  "description": "Zone mixte résidentielle et administrative",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0525,
+  "lon": 9.6985,
+  "precision": "approx"
+ },
+ {
+  "id": 5,
+  "nom": "Bonabékombo",
+  "description": "Petit quartier résidentiel traditionnel",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0578,
+  "lon": 9.702,
+  "precision": "exacte"
+ },
+ {
+  "id": 6,
+  "nom": "Bonamouti-Akwa 2",
+  "description": "Secteur d'Akwa, densément peuplé, commerces et services",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0546,
+  "lon": 9.7035,
+  "precision": "exacte"
+ },
+ {
+  "id": 7,
+  "nom": "Bonadibong",
+  "description": "Quartier résidentiel avec accès aux routes principales",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0425,
+  "lon": 9.6995,
+  "precision": "exacte"
+ },
+ {
+  "id": 8,
+  "nom": "Bonamouti-Deido",
+  "description": "Zone résidentielle et commerciale",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0585,
+  "lon": 9.7035,
+  "precision": "approx"
+ },
+ {
+  "id": 9,
+  "nom": "Bonadouma",
+  "description": "Quartier en développement avec quelques infrastructures",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0277,
+  "lon": 9.702,
+  "precision": "exacte"
+ },
+ {
+  "id": 10,
+  "nom": "Bonanjo",
+  "description": "Centre administratif et historique de Douala",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0355,
+  "lon": 9.687,
+  "precision": "exacte"
+ },
+ {
+  "id": 11,
+  "nom": "Bonadoumbè",
+  "description": "Quartier résidentiel proche des zones d'affaires",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.022,
+  "lon": 9.6975,
+  "precision": "exacte"
+ },
+ {
+  "id": 12,
+  "nom": "Bonapriso",
+  "description": "Quartier huppé avec résidences et restaurants",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0246,
+  "lon": 9.6985,
+  "precision": "exacte"
+ },
+ {
+  "id": 13,
+  "nom": "Bonajinjè",
+  "description": "Zone résidentielle avec marchés locaux",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.048,
+  "lon": 9.695,
+  "precision": "approx"
+ },
+ {
+  "id": 14,
+  "nom": "Bonatéki",
+  "description": "Quartier résidentiel tranquille",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.055,
+  "lon": 9.705,
+  "precision": "approx"
+ },
+ {
+  "id": 15,
+  "nom": "Bonakouamouang",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0595,
+  "lon": 9.706,
+  "precision": "exacte"
+ },
+ {
+  "id": 16,
+  "nom": "Bonaténè",
+  "description": "Zone résidentielle traditionnelle",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.052,
+  "lon": 9.702,
+  "precision": "approx"
+ },
+ {
+  "id": 17,
+  "nom": "Bonalembè",
+  "description": "Quartier urbain avec commerces de proximité",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0505,
+  "lon": 9.6993,
+  "precision": "exacte"
+ },
+ {
+  "id": 18,
+  "nom": "Bonantonè",
+  "description": "Secteur résidentiel avec écoles et petits commerces",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.05,
+  "lon": 9.7,
+  "precision": "approx"
+ },
+ {
+  "id": 19,
+  "nom": "Bonajang",
+  "description": "Quartier résidentiel avec quelques services publics",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0538,
+  "lon": 9.701,
+  "precision": "exacte"
+ },
+ {
+  "id": 20,
+  "nom": "Hydrocarbures",
+  "description": "Zone industrielle et bureaux liés à l'énergie",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.046,
+  "lon": 9.694,
+  "precision": "approx"
+ },
+ {
+  "id": 21,
+  "nom": "Bonelang",
+  "description": "Quartier résidentiel avec vie de quartier animée",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0522,
+  "lon": 9.7,
+  "precision": "exacte"
+ },
+ {
+  "id": 22,
+  "nom": "Joss",
+  "description": "Quartier résidentiel proche des artères principales",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0455,
+  "lon": 9.6915,
+  "precision": "approx"
+ },
+ {
+  "id": 23,
+  "nom": "Bonalékè",
+  "description": "Zone urbaine avec commerces et résidences",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.053,
+  "lon": 9.699,
+  "precision": "approx"
+ },
+ {
+  "id": 24,
+  "nom": "Koumassi",
+  "description": "Quartier commerçant avec marché et résidences",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0338,
+  "lon": 9.6935,
+  "precision": "exacte"
+ },
+ {
+  "id": 25,
+  "nom": "Bonakeke Akwa",
+  "description": "Quartier d'Akwa avec activités commerciales",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.051,
+  "lon": 9.7,
+  "precision": "approx"
+ },
+ {
+  "id": 26,
+  "nom": "Ngodi",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.049,
+  "lon": 9.7085,
+  "precision": "exacte"
+ },
+ {
+  "id": 27,
+  "nom": "Grand Moulin",
+  "description": "Zone historique avec infrastructures et marchés",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0555,
+  "lon": 9.7115,
+  "precision": "approx"
+ },
+ {
+  "id": 28,
+  "nom": "Nkongmondo",
+  "description": "Quartier résidentiel et administratif",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0342,
+  "lon": 9.699,
+  "precision": "exacte"
+ },
+ {
+  "id": 29,
+  "nom": "Nouvelle Zone D'Akwa Nord",
+  "description": "Secteur récent avec constructions modernes",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.0785,
+  "lon": 9.724,
+  "precision": "exacte"
+ },
+ {
+  "id": 30,
+  "nom": "Nouvelle Zone De New-Deido",
+  "description": "Quartier en développement avec zones résidentielles",
+  "arrondissement_id": 1,
+  "arrondissement": "Douala I (Akwa / Bonanjo / Deido)",
+  "lat": 4.057,
+  "lon": 9.716,
+  "precision": "exacte"
+ },
+ {
+  "id": 31,
+  "nom": "Aéroport",
+  "description": "Quartier abritant l'aéroport international et ses infrastructures",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.009,
+  "lon": 9.719,
+  "precision": "approx"
+ },
+ {
+  "id": 32,
+  "nom": "Babylone I",
+  "description": "Quartier résidentiel populaire avec commerces de proximité",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0225,
+  "lon": 9.7075,
+  "precision": "exacte"
+ },
+ {
+  "id": 33,
+  "nom": "Babylone II",
+  "description": "Secteur résidentiel et zones artisanales",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0225,
+  "lon": 9.7085,
+  "precision": "approx"
+ },
+ {
+  "id": 34,
+  "nom": "Bonadouma II",
+  "description": "Quartier résidentiel et commercial en développement",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.018,
+  "lon": 9.7035,
+  "precision": "exacte"
+ },
+ {
+  "id": 35,
+  "nom": "Congo",
+  "description": "Quartier résidentiel et administratif avec marchés locaux",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.04,
+  "lon": 9.7045,
+  "precision": "exacte"
+ },
+ {
+  "id": 36,
+  "nom": "Kassalafam II",
+  "description": "Zone résidentielle et artisanale",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0354,
+  "lon": 9.7115,
+  "precision": "exacte"
+ },
+ {
+  "id": 37,
+  "nom": "Lagos Market",
+  "description": "Quartier centré autour d'un marché animé",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.031,
+  "lon": 9.713,
+  "precision": "approx"
+ },
+ {
+  "id": 38,
+  "nom": "Lycée de New-Bell",
+  "description": "Secteur autour d'établissements scolaires, notamment le lycée",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.03,
+  "lon": 9.716,
+  "precision": "approx"
+ },
+ {
+  "id": 39,
+  "nom": "Mbam Ewondo",
+  "description": "Quartier résidentiel avec quelques services publics",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0315,
+  "lon": 9.7093,
+  "precision": "exacte"
+ },
+ {
+  "id": 40,
+  "nom": "Ndjong-Mebi",
+  "description": "Quartier résidentiel calme avec vie de quartier locale",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0273,
+  "lon": 9.709,
+  "precision": "exacte"
+ },
+ {
+  "id": 41,
+  "nom": "Nkololoum",
+  "description": "Zone urbaine avec commerces et résidences",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0357,
+  "lon": 9.7193,
+  "precision": "exacte"
+ },
+ {
+  "id": 42,
+  "nom": "Ngangue",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0233,
+  "lon": 9.7105,
+  "precision": "exacte"
+ },
+ {
+  "id": 43,
+  "nom": "Prison",
+  "description": "Quartier où se trouve la prison et ses infrastructures de sécurité",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0355,
+  "lon": 9.7175,
+  "precision": "approx"
+ },
+ {
+  "id": 44,
+  "nom": "Sabenjongo",
+  "description": "Quartier résidentiel avec marchés et petites entreprises",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.028,
+  "lon": 9.714,
+  "precision": "approx"
+ },
+ {
+  "id": 45,
+  "nom": "Source, T.S.F.",
+  "description": "Secteur historique avec infrastructures locales et commerces",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.033,
+  "lon": 9.72,
+  "precision": "approx"
+ },
+ {
+  "id": 46,
+  "nom": "Youpwé",
+  "description": "Quartier résidentiel proche de zones industrielles et portuaires",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0089,
+  "lon": 9.7004,
+  "precision": "exacte"
+ },
+ {
+  "id": 47,
+  "nom": "Bonendale 2",
+  "description": "Quartier résidentiel avec commerces locaux",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.086,
+  "lon": 9.66,
+  "precision": "approx"
+ },
+ {
+  "id": 48,
+  "nom": "Besseke",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.07,
+  "lon": 9.688,
+  "precision": "approx"
+ },
+ {
+  "id": 49,
+  "nom": "Bilingue",
+  "description": "Secteur résidentiel et scolaire",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.075,
+  "lon": 9.678,
+  "precision": "approx"
+ },
+ {
+  "id": 50,
+  "nom": "Bonamatoumbe Ville",
+  "description": "Quartier résidentiel principal",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.078,
+  "lon": 9.673,
+  "precision": "approx"
+ },
+ {
+  "id": 51,
+  "nom": "Bonambappé",
+  "description": "Zone résidentielle avec petites infrastructures",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.073,
+  "lon": 9.681,
+  "precision": "approx"
+ },
+ {
+  "id": 52,
+  "nom": "Bonaminkano",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.076,
+  "lon": 9.684,
+  "precision": "approx"
+ },
+ {
+  "id": 53,
+  "nom": "Bonassama",
+  "description": "Zone résidentielle avec marché local",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.0745,
+  "lon": 9.6845,
+  "precision": "exacte"
+ },
+ {
+  "id": 54,
+  "nom": "Grand Hangar",
+  "description": "Secteur commercial et industriel",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.069,
+  "lon": 9.69,
+  "precision": "approx"
+ },
+ {
+  "id": 55,
+  "nom": "Mambanda",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.083,
+  "lon": 9.673,
+  "precision": "approx"
+ },
+ {
+  "id": 56,
+  "nom": "Ndobo",
+  "description": "Secteur résidentiel avec commerces",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.09,
+  "lon": 9.677,
+  "precision": "approx"
+ },
+ {
+  "id": 57,
+  "nom": "Ngwele",
+  "description": "Quartier résidentiel et marché",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.081,
+  "lon": 9.681,
+  "precision": "approx"
+ },
+ {
+  "id": 58,
+  "nom": "Nkomba",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.086,
+  "lon": 9.684,
+  "precision": "approx"
+ },
+ {
+  "id": 59,
+  "nom": "Sodiko Ville",
+  "description": "Quartier résidentiel moderne",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.093,
+  "lon": 9.684,
+  "precision": "approx"
+ },
+ {
+  "id": 60,
+  "nom": "Bojongo",
+  "description": "Secteur résidentiel avec services de proximité",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.079,
+  "lon": 9.665,
+  "precision": "approx"
+ },
+ {
+  "id": 61,
+  "nom": "Bonamatoumbe Village",
+  "description": "Quartier traditionnel et résidentiel",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.08,
+  "lon": 9.67,
+  "precision": "approx"
+ },
+ {
+  "id": 62,
+  "nom": "Bonendale I",
+  "description": "Zone résidentielle avec infrastructures locales",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.085,
+  "lon": 9.663,
+  "precision": "approx"
+ },
+ {
+  "id": 63,
+  "nom": "Bonendale II",
+  "description": "Secteur résidentiel calme et commerçant",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.087,
+  "lon": 9.658,
+  "precision": "approx"
+ },
+ {
+  "id": 64,
+  "nom": "Djébalè I",
+  "description": "Quartier résidentiel avec marché",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.1,
+  "lon": 9.7,
+  "precision": "approx"
+ },
+ {
+  "id": 65,
+  "nom": "Djébalè II",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.103,
+  "lon": 9.702,
+  "precision": "approx"
+ },
+ {
+  "id": 66,
+  "nom": "Sodiko Village",
+  "description": "Quartier résidentiel et villageois",
+  "arrondissement_id": 4,
+  "arrondissement": "Douala IV (Bonabéri)",
+  "lat": 4.095,
+  "lon": 9.681,
+  "precision": "approx"
+ },
+ {
+  "id": 67,
+  "nom": "Bépanda Bonamoussongo",
+  "description": "Quartier résidentiel et commerçant",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.063,
+  "lon": 9.727,
+  "precision": "approx"
+ },
+ {
+  "id": 68,
+  "nom": "Bépanda Bonéwanda",
+  "description": "Secteur résidentiel calme avec petites infrastructures",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.061,
+  "lon": 9.73,
+  "precision": "approx"
+ },
+ {
+  "id": 69,
+  "nom": "Bépanda Omnisports",
+  "description": "Zone avec installations sportives et résidences",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.065,
+  "lon": 9.735,
+  "precision": "approx"
+ },
+ {
+  "id": 70,
+  "nom": "Bépanda Petit Wouri",
+  "description": "Quartier résidentiel à proximité du fleuve Wouri",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.058,
+  "lon": 9.726,
+  "precision": "approx"
+ },
+ {
+  "id": 71,
+  "nom": "Bépanda TSF Cacao Barry",
+  "description": "Secteur industriel et résidentiel",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.06,
+  "lon": 9.733,
+  "precision": "approx"
+ },
+ {
+  "id": 72,
+  "nom": "Bépanda TSF",
+  "description": "Zone résidentielle avec commerces et services",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.059,
+  "lon": 9.731,
+  "precision": "approx"
+ },
+ {
+  "id": 73,
+  "nom": "Bépanda Voirie",
+  "description": "Quartier résidentiel avec infrastructures locales",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.062,
+  "lon": 9.737,
+  "precision": "approx"
+ },
+ {
+  "id": 74,
+  "nom": "Bépanda Yonyong",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.064,
+  "lon": 9.729,
+  "precision": "approx"
+ },
+ {
+  "id": 75,
+  "nom": "Bonamoussadi Cité",
+  "description": "Quartier résidentiel et administratif",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.086,
+  "lon": 9.745,
+  "precision": "approx"
+ },
+ {
+  "id": 76,
+  "nom": "Cacao Barry",
+  "description": "Secteur industriel et commercial",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.06,
+  "lon": 9.735,
+  "precision": "approx"
+ },
+ {
+  "id": 77,
+  "nom": "Cite des Palmiers",
+  "description": "Quartier résidentiel avec commerces et services",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.07,
+  "lon": 9.745,
+  "precision": "approx"
+ },
+ {
+  "id": 78,
+  "nom": "Cité Makepé",
+  "description": "Zone résidentielle avec infrastructures de proximité",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.075,
+  "lon": 9.752,
+  "precision": "approx"
+ },
+ {
+  "id": 79,
+  "nom": "Cité Sic",
+  "description": "Quartier résidentiel et commerçant",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.068,
+  "lon": 9.742,
+  "precision": "approx"
+ },
+ {
+  "id": 80,
+  "nom": "Dikahe (PK10)",
+  "description": "Secteur résidentiel et activité locale",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.098,
+  "lon": 9.775,
+  "precision": "approx"
+ },
+ {
+  "id": 81,
+  "nom": "Emene City",
+  "description": "Quartier résidentiel avec services et commerces",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.09,
+  "lon": 9.76,
+  "precision": "approx"
+ },
+ {
+  "id": 82,
+  "nom": "Gentil",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.072,
+  "lon": 9.748,
+  "precision": "approx"
+ },
+ {
+  "id": 83,
+  "nom": "Jourdain",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.082,
+  "lon": 9.752,
+  "precision": "approx"
+ },
+ {
+  "id": 84,
+  "nom": "Kondi PK8",
+  "description": "Secteur résidentiel avec commerces locaux",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.092,
+  "lon": 9.768,
+  "precision": "approx"
+ },
+ {
+  "id": 85,
+  "nom": "Makèpè Maturité",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.073,
+  "lon": 9.758,
+  "precision": "approx"
+ },
+ {
+  "id": 86,
+  "nom": "Makèpè Petit Pays",
+  "description": "Zone résidentielle avec services et commerces",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.076,
+  "lon": 9.76,
+  "precision": "approx"
+ },
+ {
+  "id": 87,
+  "nom": "Makèpè Recasement",
+  "description": "Quartier résidentiel réaménagé",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.078,
+  "lon": 9.755,
+  "precision": "approx"
+ },
+ {
+  "id": 88,
+  "nom": "Makèpè Terminus",
+  "description": "Secteur résidentiel proche des transports",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.071,
+  "lon": 9.755,
+  "precision": "approx"
+ },
+ {
+  "id": 89,
+  "nom": "Manikè",
+  "description": "Quartier résidentiel avec commerces de proximité",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.08,
+  "lon": 9.748,
+  "precision": "approx"
+ },
+ {
+  "id": 90,
+  "nom": "Mbenguè City",
+  "description": "Zone résidentielle et commerciale",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.088,
+  "lon": 9.755,
+  "precision": "approx"
+ },
+ {
+  "id": 91,
+  "nom": "Nguereck",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.084,
+  "lon": 9.762,
+  "precision": "approx"
+ },
+ {
+  "id": 92,
+  "nom": "PK 15",
+  "description": "Secteur résidentiel avec activités locales",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.105,
+  "lon": 9.8,
+  "precision": "approx"
+ },
+ {
+  "id": 93,
+  "nom": "PK 16",
+  "description": "Quartier résidentiel et artisanat",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.108,
+  "lon": 9.808,
+  "precision": "approx"
+ },
+ {
+  "id": 94,
+  "nom": "PK 17",
+  "description": "Zone résidentielle avec petites entreprises",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.111,
+  "lon": 9.815,
+  "precision": "approx"
+ },
+ {
+  "id": 95,
+  "nom": "PK 21",
+  "description": "Quartier résidentiel et commerces",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.12,
+  "lon": 9.835,
+  "precision": "approx"
+ },
+ {
+  "id": 96,
+  "nom": "Sobikago",
+  "description": "Quartier résidentiel calme avec infrastructures",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.083,
+  "lon": 9.74,
+  "precision": "approx"
+ },
+ {
+  "id": 97,
+  "nom": "Logpom",
+  "description": "Secteur résidentiel et artisanal",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.079,
+  "lon": 9.768,
+  "precision": "exacte"
+ },
+ {
+  "id": 98,
+  "nom": "Sodikombo",
+  "description": "Quartier résidentiel et commerces de proximité",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.079,
+  "lon": 9.737,
+  "precision": "approx"
+ },
+ {
+  "id": 99,
+  "nom": "Beedi",
+  "description": "Quartier résidentiel et commerces de proximité",
+  "arrondissement_id": 5,
+  "arrondissement": "Douala V (Bépanda / Makèpè / Bonamoussadi)",
+  "lat": 4.081,
+  "lon": 9.744,
+  "precision": "approx"
+ },
+ {
+  "id": 100,
+  "nom": "Bilongue I",
+  "description": "Quartier résidentiel avec infrastructures locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.048,
+  "lon": 9.762,
+  "precision": "approx"
+ },
+ {
+  "id": 101,
+  "nom": "Bilongue II",
+  "description": "Secteur résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.05,
+  "lon": 9.766,
+  "precision": "approx"
+ },
+ {
+  "id": 102,
+  "nom": "Bonanloka",
+  "description": "Quartier urbain avec commerces et résidences",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.041,
+  "lon": 9.745,
+  "precision": "approx"
+ },
+ {
+  "id": 103,
+  "nom": "Brazzaville",
+  "description": "Quartier densément peuplé avec marchés",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.036,
+  "lon": 9.729,
+  "precision": "approx"
+ },
+ {
+  "id": 104,
+  "nom": "Newtown Aéroport",
+  "description": "Secteur autour de l'aéroport et zones résidentielles",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.018,
+  "lon": 9.724,
+  "precision": "approx"
+ },
+ {
+  "id": 105,
+  "nom": "Bwang",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.043,
+  "lon": 9.76,
+  "precision": "approx"
+ },
+ {
+  "id": 106,
+  "nom": "Cité de la Paix",
+  "description": "Zone résidentielle avec écoles et services de proximité",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.046,
+  "lon": 9.755,
+  "precision": "approx"
+ },
+ {
+  "id": 107,
+  "nom": "Cité des Enseignants",
+  "description": "Quartier historique avec établissements scolaires",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.045,
+  "lon": 9.75,
+  "precision": "approx"
+ },
+ {
+  "id": 108,
+  "nom": "Dibom I",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.038,
+  "lon": 9.74,
+  "precision": "approx"
+ },
+ {
+  "id": 109,
+  "nom": "Dibom II",
+  "description": "Secteur résidentiel avec marchés locaux",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.036,
+  "lon": 9.743,
+  "precision": "approx"
+ },
+ {
+  "id": 110,
+  "nom": "Japoma",
+  "description": "Quartier connu pour le stade et infrastructures sportives",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.0323,
+  "lon": 9.8227,
+  "precision": "exacte"
+ },
+ {
+  "id": 111,
+  "nom": "Logbaba",
+  "description": "Quartier industriel et résidentiel",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.036,
+  "lon": 9.755,
+  "precision": "approx"
+ },
+ {
+  "id": 112,
+  "nom": "Logbessou",
+  "description": "Zone résidentielle avec petites entreprises",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.062,
+  "lon": 9.78,
+  "precision": "approx"
+ },
+ {
+  "id": 113,
+  "nom": "Madagascar",
+  "description": "Quartier résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.042,
+  "lon": 9.735,
+  "precision": "approx"
+ },
+ {
+  "id": 114,
+  "nom": "Madagascar II",
+  "description": "Secteur résidentiel et commerçant",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.04,
+  "lon": 9.737,
+  "precision": "approx"
+ },
+ {
+  "id": 115,
+  "nom": "Mbanga Mpongo",
+  "description": "Secteur calme avec résidences et commerces",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.02,
+  "lon": 9.855,
+  "precision": "approx"
+ },
+ {
+  "id": 116,
+  "nom": "Mboko",
+  "description": "Secteur résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.033,
+  "lon": 9.762,
+  "precision": "approx"
+ },
+ {
+  "id": 117,
+  "nom": "RNCFC",
+  "description": "Quartier résidentiel et administratif",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.038,
+  "lon": 9.733,
+  "precision": "approx"
+ },
+ {
+  "id": 118,
+  "nom": "Ndogbatti CDP",
+  "description": "Quartier urbain avec services publics",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.039,
+  "lon": 9.744,
+  "precision": "approx"
+ },
+ {
+  "id": 119,
+  "nom": "Ndogbatti I",
+  "description": "Quartier résidentiel avec infrastructures locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.038,
+  "lon": 9.746,
+  "precision": "approx"
+ },
+ {
+  "id": 120,
+  "nom": "Ndoghem I",
+  "description": "Zone résidentielle avec petites entreprises",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.049,
+  "lon": 9.771,
+  "precision": "approx"
+ },
+ {
+  "id": 121,
+  "nom": "Ndoghem II",
+  "description": "Quartier résidentiel en extension",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.051,
+  "lon": 9.775,
+  "precision": "approx"
+ },
+ {
+  "id": 122,
+  "nom": "Ndogmbe",
+  "description": "Secteur résidentiel et artisanat",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.04,
+  "lon": 9.752,
+  "precision": "approx"
+ },
+ {
+  "id": 123,
+  "nom": "Ndokoti",
+  "description": "Quartier résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.0435,
+  "lon": 9.7425,
+  "precision": "exacte"
+ },
+ {
+  "id": 124,
+  "nom": "Ndogbong",
+  "description": "Zone résidentielle avec commerces locaux",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.055,
+  "lon": 9.75,
+  "precision": "approx"
+ },
+ {
+  "id": 125,
+  "nom": "CCC",
+  "description": "Quartier résidentiel et administratif",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.043,
+  "lon": 9.748,
+  "precision": "approx"
+ },
+ {
+  "id": 126,
+  "nom": "Ndogpassi I",
+  "description": "Quartier urbain avec marchés et écoles",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.03,
+  "lon": 9.762,
+  "precision": "approx"
+ },
+ {
+  "id": 127,
+  "nom": "Ndogpassi II",
+  "description": "Secteur résidentiel en développement",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.026,
+  "lon": 9.77,
+  "precision": "approx"
+ },
+ {
+  "id": 128,
+  "nom": "Ndogpassi III",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.022,
+  "lon": 9.778,
+  "precision": "approx"
+ },
+ {
+  "id": 129,
+  "nom": "Logmayangui",
+  "description": "Quartier résidentiel et artisanat",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.034,
+  "lon": 9.758,
+  "precision": "approx"
+ },
+ {
+  "id": 130,
+  "nom": "Cité des Billes",
+  "description": "Zone résidentielle avec commerces et services",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.047,
+  "lon": 9.744,
+  "precision": "approx"
+ },
+ {
+  "id": 131,
+  "nom": "Ari",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.03,
+  "lon": 9.75,
+  "precision": "approx"
+ },
+ {
+  "id": 132,
+  "nom": "Nkôlmbong",
+  "description": "Quartier résidentiel avec services locaux",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.058,
+  "lon": 9.788,
+  "precision": "approx"
+ },
+ {
+  "id": 133,
+  "nom": "Ndodi",
+  "description": "Zone résidentielle et artisanale",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.037,
+  "lon": 9.748,
+  "precision": "approx"
+ },
+ {
+  "id": 134,
+  "nom": "Ngoma",
+  "description": "Quartier urbain avec résidences et commerces",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.044,
+  "lon": 9.757,
+  "precision": "approx"
+ },
+ {
+  "id": 135,
+  "nom": "Nyalla",
+  "description": "Secteur résidentiel et marché local",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.031,
+  "lon": 9.775,
+  "precision": "approx"
+ },
+ {
+  "id": 136,
+  "nom": "Nylon",
+  "description": "Quartier industriel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.038,
+  "lon": 9.737,
+  "precision": "approx"
+ },
+ {
+  "id": 137,
+  "nom": "Oyack",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.028,
+  "lon": 9.757,
+  "precision": "approx"
+ },
+ {
+  "id": 138,
+  "nom": "PK14",
+  "description": "Zone résidentielle et artisanale",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.032,
+  "lon": 9.8,
+  "precision": "approx"
+ },
+ {
+  "id": 139,
+  "nom": "PK8",
+  "description": "Quartier résidentiel et activités locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.043,
+  "lon": 9.767,
+  "precision": "approx"
+ },
+ {
+  "id": 140,
+  "nom": "PK12",
+  "description": "Quartier résidentiel avec commerces",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.036,
+  "lon": 9.79,
+  "precision": "approx"
+ },
+ {
+  "id": 141,
+  "nom": "PK17",
+  "description": "Quartier urbain avec infrastructures locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.028,
+  "lon": 9.815,
+  "precision": "approx"
+ },
+ {
+  "id": 142,
+  "nom": "PK19",
+  "description": "Secteur résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.024,
+  "lon": 9.828,
+  "precision": "approx"
+ },
+ {
+  "id": 143,
+  "nom": "PK21",
+  "description": "Quartier résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.018,
+  "lon": 9.842,
+  "precision": "approx"
+ },
+ {
+  "id": 144,
+  "nom": "PKJ6",
+  "description": "Quartier résidentiel et artisanat",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.046,
+  "lon": 9.76,
+  "precision": "approx"
+ },
+ {
+  "id": 145,
+  "nom": "So-Boum",
+  "description": "Zone résidentielle avec commerces de proximité",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.026,
+  "lon": 9.765,
+  "precision": "approx"
+ },
+ {
+  "id": 146,
+  "nom": "Song-Mahop",
+  "description": "Quartier résidentiel et activités locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.033,
+  "lon": 9.768,
+  "precision": "approx"
+ },
+ {
+  "id": 147,
+  "nom": "Tergal",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.041,
+  "lon": 9.741,
+  "precision": "approx"
+ },
+ {
+  "id": 148,
+  "nom": "Yansoki",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.035,
+  "lon": 9.744,
+  "precision": "approx"
+ },
+ {
+  "id": 149,
+  "nom": "Yassa",
+  "description": "Quartier résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.02,
+  "lon": 9.812,
+  "precision": "approx"
+ },
+ {
+  "id": 150,
+  "nom": "Yatchika",
+  "description": "Quartier résidentiel et activités locales",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.029,
+  "lon": 9.744,
+  "precision": "approx"
+ },
+ {
+  "id": 151,
+  "nom": "Yonyong",
+  "description": "Secteur résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.045,
+  "lon": 9.739,
+  "precision": "approx"
+ },
+ {
+  "id": 152,
+  "nom": "Ndogsimbi",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.034,
+  "lon": 9.752,
+  "precision": "approx"
+ },
+ {
+  "id": 153,
+  "nom": "Ngodi-Bakoko",
+  "description": "Quartier résidentiel et artisanal",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.052,
+  "lon": 9.757,
+  "precision": "approx"
+ },
+ {
+  "id": 154,
+  "nom": "Bassa-Logbaba",
+  "description": "Quartier résidentiel et commercial",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.037,
+  "lon": 9.752,
+  "precision": "approx"
+ },
+ {
+  "id": 155,
+  "nom": "Bobongo",
+  "description": "Zone résidentielle calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.045,
+  "lon": 9.766,
+  "precision": "approx"
+ },
+ {
+  "id": 156,
+  "nom": "Boko",
+  "description": "Quartier résidentiel",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.048,
+  "lon": 9.78,
+  "precision": "approx"
+ },
+ {
+  "id": 157,
+  "nom": "Cité Berge 1",
+  "description": "Secteur résidentiel et scolaire",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.05,
+  "lon": 9.759,
+  "precision": "approx"
+ },
+ {
+  "id": 158,
+  "nom": "Dibamba Bonaloka",
+  "description": "Quartier résidentiel traditionnel",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.03,
+  "lon": 9.835,
+  "precision": "approx"
+ },
+ {
+  "id": 159,
+  "nom": "Dibom I Espoir",
+  "description": "Zone résidentielle et artisanale",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.037,
+  "lon": 9.742,
+  "precision": "approx"
+ },
+ {
+  "id": 160,
+  "nom": "Diboum 2",
+  "description": "Quartier résidentiel calme",
+  "arrondissement_id": 3,
+  "arrondissement": "Douala III (Bassa / Logbaba)",
+  "lat": 4.035,
+  "lon": 9.745,
+  "precision": "approx"
+ },
+ {
+  "id": 161,
+  "nom": "New-Bell",
+  "description": "Secteur historique",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.027,
+  "lon": 9.713,
+  "precision": "exacte"
+ },
+ {
+  "id": 162,
+  "nom": "Kassalafam I",
+  "description": "Zone résidentielle et artisanale",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0392,
+  "lon": 9.7093,
+  "precision": "exacte"
+ },
+ {
+  "id": 163,
+  "nom": "Bonadouma I",
+  "description": "Quartier résidentiel et commercial en développement",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.019,
+  "lon": 9.703,
+  "precision": "approx"
+ },
+ {
+  "id": 164,
+  "nom": "New Bell Bassa",
+  "description": "Secteur historique",
+  "arrondissement_id": 2,
+  "arrondissement": "Douala II (New-Bell)",
+  "lat": 4.0313,
+  "lon": 9.7038,
+  "precision": "exacte"
+ }
+]
